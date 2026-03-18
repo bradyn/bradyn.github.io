@@ -5,6 +5,7 @@ permalink: /projects/
 ---
 
 ---
+
 ## Macroeconomic Forecasting: Can Statistical Models Beat the Experts?
 
 [GitHub](https://github.com/bradyn/forecast_comparison)
@@ -30,13 +31,13 @@ implementations from statsmodels and scikit-learn cannot handle jointly.
 
 **Key findings:**
 
-* Simple AR models are competitive with more complex ML methods for GDP
+- Simple AR models are competitive with more complex ML methods for GDP
   growth and inflation across all horizons.
-* Performance on unemployment is more mixed. Tree-based methods substantially 
+- Performance on unemployment is more mixed. Tree-based methods substantially
   underperform at short horizons but outperform at the longest horizons.
-* Professional forecasters generally outperform statistical methods,
+- Professional forecasters generally outperform statistical methods,
   especially at short horizons.
-* The forecasters' advantage is concentrated in recession periods.
+- The forecasters' advantage is concentrated in recession periods.
   During expansions, simple statistical methods are competitive,
   particularly at longer horizons.
 
