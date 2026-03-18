@@ -13,4 +13,3 @@ permalink: /contact/
 **GitHub:** [github.com/bradyn](https://github.com/bradyn)
 
 ---
-
