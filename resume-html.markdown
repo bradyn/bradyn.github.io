@@ -78,7 +78,7 @@
         <p>5 years</p>
         <ul>
         <li>
-        <p>Developed a novel mathematical framework for analyzing equilibrium pricing in markets with asymmetrically informed participants, extending standard models to accommodate richer and more realistic market structures (solo-authored publication in Review of Economic Studies, ~5% acceptance rate)</p>
+        <p>Developed a novel mathematical framework for analyzing equilibrium pricing in markets with asymmetrically informed participants, extending standard linear models to accommodate richer nonlinear settings (solo-authored publication in Review of Economic Studies, ~5% acceptance rate)</p>
         </li>
         <li>
         <p>Delivered rigorous finance theory course for PhD students, covering advanced asset pricing, information economics, and market microstructure</p>
