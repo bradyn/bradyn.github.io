@@ -1,4 +1,5 @@
 ---
+permalink: /resume-html/
 ---
 <html lang="en">
 <head>
