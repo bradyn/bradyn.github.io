@@ -22,9 +22,8 @@ title: Bradyn Breon-Drish
 # author: Bradyn Breon-Drish
 email: bbreondrish@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Finance PhD specializing in quantitative modeling, information economics, 
-  and data analysis. Background in mathematical modeling, Python programming, 
-  and financial research.
+  Quantitative researcher and economist specializing in modeling of 
+  pricing, strategic behavior, and information asymmetry in markets.
 domain: bradyn.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bradyn.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
