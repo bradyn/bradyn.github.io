@@ -40,7 +40,7 @@ permalink: /resume-html/
 
 <body>
     <article class="markdown-body">
-        <h1>Bradyn Breon-Drish's CV</h1>
+        <h1>Bradyn Breon-Drish's Resume</h1>
         <ul>
         <li>Email: <a href="mailto:bbreondrish@gmail.com">bbreondrish@gmail.com</a></li>
         <li>Location: San Francisco, CA</li>
