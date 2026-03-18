@@ -14,14 +14,15 @@ permalink: /resume/
 
 ## Quick Summary
 
-**Technical Skills:** Python, SQL, C++, Java, Git, Pandas, Jupyter, LaTeX
+**Technical Skills:** Python, SQL, C++, Java, Pandas, NumPy,
+scikit-learn, statsmodels, Git, Jupyter, LaTeX
 
-**Domain Expertise:** Quantitative modeling, financial markets, data analysis, statistical methods
+**Domain Expertise:** Pricing and marketplace dynamics, information
+asymmetry, strategic decision-making, financial markets
 
 **Education:**
 
-- PhD & MS in Finance, UC Berkeley
-- Computer Science coursework, City College of San Francisco
-- BBA in Finance, University of Iowa
+* PhD & MS in Finance, UC Berkeley
+* BBA in Finance (Statistics minor), University of Iowa
 
 For more details about my background, see my [About](/about/) page.
