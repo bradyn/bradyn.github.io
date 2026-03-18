@@ -4,38 +4,39 @@ title: About
 permalink: /about/
 ---
 
-I'm an economist and quantitative researcher transitioning from academic finance to industry roles where mathematical modeling and data analysis create practical value.
+I'm a quantitative researcher and economist transitioning from academic finance to
+industry. My background is in building mathematical models of pricing,
+strategic behavior, and information asymmetry in markets.
 
 ## Background
 
-I spent over a decade as a finance professor at Stanford and UC San Diego,
-where I built mathematical models to understand pricing, strategic behavior,
-and informaiton asymmetry in markets. My research resulted
-in six publications in leading journals and has been cited over 300 times. I am
-also an experienced communicator, having
-taught graduate-level finance courses to over 1,000 students, and spoken at 70+ conferences and leading universities.
+I spent 14 years as a finance professor at Stanford and UC San Diego,
+where I developed mathematical models analyzing how prices form when
+market participants hold private information and act strategically. This
+work resulted in six publications in leading journals and has been cited
+over 300 times. I also taught graduate-level finance courses to over
+1,000 students and presented at 70+ international conferences and universities.
 
-While I value the intellectual rigor of academic research, I realized I wanted
-to work on problems with more immediate, tangible impact. I want to solve problems that matter to organizations, and see my
-work create value in the real world.
+I'm now looking to apply this background in quantitative modeling,
+structured problem-solving, and communicating technical work in an
+industry setting.
 
 ## Technical Skills
 
-My academic background gave me deep expertise in mathematical modeling, probability theory, and statistical analysis. Recently, I've strengthened my computer science foundation through coursework in data structures, algorithms, databases, and object-oriented programming. I'm proficient in Python, SQL, C++, and Java.
-
-I'm comfortable working with complex datasets, building models from scratch, and communicating technical findings to non-technical audiences.
+My academic training gave me a strong foundation in probability theory,
+stochastic processes, game theory, econometrics, and statistical
+analysis. Recently, I completed comprehensive computer science
+coursework covering data structures and algorithms, databases,
+object-oriented programming, and computer architecture. I am proficient in
+Python and SQL, with additional experience in C++ and Java.
 
 ## What I'm Looking For
 
-I'm interested in roles where I can:
+I'm interested in roles where the core challenge is using quantitative
+thinking to understand and solve real problems, particularly in areas
+like marketplace dynamics, pricing, risk, or financial modeling. I'm
+drawn to work where problem formulation and careful reasoning are
+central to the role.
 
-- Apply quantitative methods to solve real business problems
-- Work with data to uncover insights and drive decisions
-- Collaborate with teams on challenging analytical projects
-- Continue learning and growing my technical skills
-
-I'm particularly drawn to problems in finance, data science, and quantitative analysis, but I'm open to any role where rigorous thinking and technical skills create value.
-
-## Location
-
-I'm based in San Francisco and open to both on-site and remote opportunities.
+I'm based in San Francisco and prefer hybrid roles, though I'm open
+to other arrangements.
