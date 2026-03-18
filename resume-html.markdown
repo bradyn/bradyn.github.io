@@ -60,16 +60,16 @@
         <p>9 years 2 months</p>
         <ul>
         <li>
-        <p>Built mathematical models analyzing how prices form in markets where participants hold private information and act strategically, with applications to pricing dynamics, information acquisition, and risk (5 publications in peer-reviewed journals including Journal of Finance and Review of Financial Studies)</p>
+        <p>Built mathematical models analyzing how prices form in markets where participants hold private information and act strategically, with applications to pricing dynamics, information acquisition, and firm investment decisions (5 publications in peer-reviewed journals including Journal of Finance and Review of Financial Studies)</p>
         </li>
         <li>
-        <p>Research contributions included: modeling how market participants strategically decide when and how much to invest in acquiring private information, analyzing how voluntary disclosure of information reshapes trading behavior and price efficiency, and showing how feedback between market prices and real investment decisions can distort incentives</p>
+        <p>Research contributions included: modeling how market participants strategically decide when and how much to invest in acquiring private information, analyzing how voluntary disclosure of information reshapes trading behavior and price efficiency, and showing how feedback between market prices and real investment decisions can affect firm behavior</p>
         </li>
         <li>
         <p>Designed and delivered 2 graduate courses (Corporate Finance, Derivatives &amp; Structured Finance) for quantitative finance program, developing all curriculum and integrating ~10 business case studies per course. Taught to ~1000 students over 9 years</p>
         </li>
         <li>
-        <p>Presented at 30+ international conferences, communicating complex quantitative research to expert audiences and defending methodology through live Q&amp;A</p>
+        <p>Presented at 30+ international conferences, communicating complex quantitative research to expert audiences and engaging in live Q&amp;A</p>
         </li>
         </ul>
         <h2><strong>Stanford University, Graduate School of Business</strong>, Assistant Professor of Finance</h2>
