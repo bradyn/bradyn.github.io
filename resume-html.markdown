@@ -52,7 +52,7 @@
         <p><strong>Programming Languages:</strong> Python, SQL, C++, Java</p>
         <p><strong>Tools &amp; Software:</strong> Pandas, NumPy, scikit-learn, statsmodels, Git, Jupyter, LaTeX</p>
         <p><strong>Mathematical &amp; Statistical Methods:</strong> Probability theory, stochastic processes, statistical inference, time series analysis, econometrics, regression modeling, game theory, equilibrium analysis, optimization</p>
-        <p><strong>Domain Expertise:</strong> Pricing and marketplace dynamics, information asymmetry, strategic decision-making, financial markets</p>
+        <p><strong>Domain Expertise:</strong> Pricing and market dynamics, information asymmetry, strategic decision-making, financial markets</p>
         <h1>Experience</h1>
         <h2><strong>UC San Diego, Rady School of Management</strong>, Assistant Professor of Finance</h2>
         <p>La Jolla, CA</p>

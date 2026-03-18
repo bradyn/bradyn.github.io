@@ -17,7 +17,7 @@ permalink: /resume/
 **Technical Skills:** Python, SQL, C++, Java, Pandas, NumPy,
 scikit-learn, statsmodels, Git, Jupyter, LaTeX
 
-**Domain Expertise:** Pricing and marketplace dynamics, information
+**Domain Expertise:** Pricing and market dynamics, information
 asymmetry, strategic decision-making, financial markets
 
 **Education:**
