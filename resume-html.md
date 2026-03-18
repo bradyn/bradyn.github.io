@@ -48,12 +48,12 @@
         <li>GitHub: <a href="https://github.com/bradyn">bradyn</a></li>
         </ul>
         <h1>Summary</h1>
-        <p>PhD in Finance specializing in quantitative modeling and information economics. Built and published mathematical models analyzing strategic behavior in financial markets (6 publications in top-tier journals, 300+ citations). Proven track record of communicating complex technical concepts through teaching (1000+ students) and presenting research (70+ international conferences and universities).</p>
+        <p>PhD in Finance with 14 years of research experience building mathematical models of pricing, strategic behavior, and information asymmetry in markets. Published 6 peer-reviewed papers (300+ citations) developing novel frameworks for analyzing how market participants acquire, process, and act on private information. Strong technical foundation in probability theory, stochastic processes, game theory, and econometrics, complemented by recent coursework in computer science and software development. Experienced communicator who has presented complex quantitative work to expert audiences at 70+ international venues and taught 1000+ students.</p>
         <h1>Skills</h1>
-        <p><strong>Domain Expertise:</strong> Information economics, market microstructure, strategic behavior, financial markets</p>
-        <p><strong>Mathematical &amp; Statistical Methods:</strong> Probability theory, stochastic processes, stochastic calculus, linear algebra, real analysis, econometrics, game theory, equilibrium analysis</p>
         <p><strong>Programming Languages:</strong> Python, SQL, C++, Java</p>
-        <p><strong>Tools &amp; Software:</strong> Git, Pandas, Jupyter, LaTeX</p>
+        <p><strong>Tools &amp; Software:</strong> Pandas, NumPy, scikit-learn, statsmodels, Git, Jupyter, LaTeX</p>
+        <p><strong>Mathematical &amp; Statistical Methods:</strong> Probability theory, stochastic processes, statistical inference, time series analysis, econometrics, regression modeling, game theory, equilibrium analysis, optimization</p>
+        <p><strong>Domain Expertise:</strong> Pricing and marketplace dynamics, information asymmetry, strategic decision-making, financial markets</p>
         <h1>Experience</h1>
         <h2><strong>UC San Diego, Rady School of Management</strong>, Assistant Professor of Finance</h2>
         <p>La Jolla, CA</p>
@@ -61,16 +61,16 @@
         <p>9 years 2 months</p>
         <ul>
         <li>
-        <p>Developed mathematical models of price formation, information transmission, and strategic behavior in markets, with 5 publications passing rigorous peer review in top journals (including <em>Journal of Finance</em>, <em>Review of Financial Studies</em>, <em>Journal of Financial Economics</em>, <em>Journal of Economic Theory</em>)</p>
+        <p>Built mathematical models analyzing how prices form in markets where participants hold private information and act strategically, with applications to pricing dynamics, information acquisition, and risk (5 publications in peer-reviewed journals including Journal of Finance and Review of Financial Studies)</p>
         </li>
         <li>
-        <p>Designed and delivered 2 graduate courses (Corporate Finance, Derivatives &amp; Structured Finance) for quantitative finance program, developing all curriculum and integrating ~10 business case studies per course; taught to ~1000 students over 9 years</p>
+        <p>Research contributions included: modeling how market participants strategically decide when and how much to invest in acquiring private information, analyzing how voluntary disclosure of information reshapes trading behavior and price efficiency, and showing how feedback between market prices and real investment decisions can distort incentives</p>
         </li>
         <li>
-        <p>Presented at 30+ international conferences and universities, communicating complex technical concepts to expert audiences and defending results through live Q&amp;A</p>
+        <p>Designed and delivered 2 graduate courses (Corporate Finance, Derivatives &amp; Structured Finance) for quantitative finance program, developing all curriculum and integrating ~10 business case studies per course. Taught to ~1000 students over 9 years</p>
         </li>
         <li>
-        <p>Collaborated with researchers across multiple institutions on multi-year projects, coordinating joint work and managing research timelines</p>
+        <p>Presented at 30+ international conferences, communicating complex quantitative research to expert audiences and defending methodology through live Q&amp;A</p>
         </li>
         </ul>
         <h2><strong>Stanford University, Graduate School of Business</strong>, Assistant Professor of Finance</h2>
@@ -79,7 +79,7 @@
         <p>5 years</p>
         <ul>
         <li>
-        <p>Developed novel framework for analyzing non-linear equilibria in markets with information asymmetry, resulting in solo-authored publication in <em>Review of Economic Studies</em> (~5% acceptance rate)</p>
+        <p>Developed a novel mathematical framework for analyzing equilibrium pricing in markets with asymmetrically informed participants, extending standard models to accommodate richer and more realistic market structures (solo-authored publication in Review of Economic Studies, ~5% acceptance rate)</p>
         </li>
         <li>
         <p>Delivered rigorous finance theory course for PhD students, covering advanced asset pricing, information economics, and market microstructure</p>
@@ -87,8 +87,20 @@
         <li>
         <p>Delivered case-based core finance course to 400+ MBA students over 5 years, adapting complex quantitative concepts for business-focused audience</p>
         </li>
+        </ul>
+        <h1>Projects</h1>
+        <h2><strong>Macroeconomic Forecasting: Can Statistical Models Beat the Experts?</strong></h2>
+        <p>Mar 2026</p>
+        <p>Built a Python-based forecasting pipeline comparing AR, Elastic Net, Random Forest, Gradient Boosted Trees, and neural network models against professional forecasters on major macroeconomic series, using real-time vintage data to avoid look-ahead bias. <a href="https://github.com/bradyn/forecast_comparison">GitHub link</a></p>
+        <ul>
         <li>
-        <p>Presented research at 25+ international conferences and leading universities, demonstrating ability to communicate technical work to expert audiences</p>
+        <p>Implemented using pandas, scikit-learn, and statsmodels, with modular code structure (separate data loading, cleaning, modeling, and evaluation modules)</p>
+        </li>
+        <li>
+        <p>Built custom autoregressive model wrapper to handle vintage-aware predictors and recursive multi-step forecasts, addressing limitations in off-the-shelf implementations</p>
+        </li>
+        <li>
+        <p>Simple AR methods are competitive with complex ML models, and professional forecasters outperform statistical methods primarily during recessions and at short horizons</p>
         </li>
         </ul>
         <h1>Education</h1>
@@ -98,9 +110,6 @@
         <p>2011</p>
         <p>Advanced graduate coursework in economics, finance, and mathematics: stochastic processes, probability theory, real analysis, measure theory, topology, functional analysis, partial differential equations, econometrics, microeconomic theory, game theory, asset pricing, market microstructure.</p>
         <ul>
-        <li>
-        <p>Presented dissertation research at 10 leading universities and conferences</p>
-        </li>
         <li>
         <p>Outstanding Graduate Student Instructor Award, 2009 and 2011</p>
         </li>
@@ -115,21 +124,6 @@
         <ul>
         <li>Graduated with Honors and Highest Distinction</li>
         </ul>
-        <h1>Projects</h1>
-        <h2><strong>Macroeconomic Forecasting: Can Statistical Models Beat the Experts?</strong></h2>
-        <p>Mar 2026</p>
-        <p>Evaluated performance of statistical forecasting methods on major macroeconomic series, benchmarked against the Survey of Professional Forecasters. <a href="https://github.com/bradyn/forecast_comparison">GitHub link</a></p>
-        <ul>
-        <li>
-        <p>Simple AR methods are competitive with more complex ML models</p>
-        </li>
-        <li>
-        <p>Professional forecasters typically outperform statistical models, especially at short horizons</p>
-        </li>
-        <li>
-        <p>Outperformance of forecasters is driven by better performance at the shortest horizons during recessions. Statistical models are more competitive during expansions, especially at longer horizons.</p>
-        </li>
-        </ul>
         <h1>Technical Training</h1>
         <h2><strong>City College of San Francisco</strong>, Computer Science (non-degree coursework)</h2>
         <p>San Francisco, CA</p>
@@ -137,18 +131,15 @@
         <p>Completed comprehensive coursework in computer science and programming to strengthen technical skills for industry transition.</p>
         <ul>
         <li>
-        <p>Core topics: data structures and algorithms, databases, object-oriented programming, Unix/Linux systems</p>
+        <p>Core topics: data structures and algorithms, databases, object-oriented programming, computer architecture, Unix/Linux systems</p>
         </li>
         <li>
         <p>Programming languages: Python, SQL, C++, Java</p>
         </li>
-        <li>
-        <p>Built practical computer science knowledge to complement quantitative research background</p>
-        </li>
         </ul>
         <h1>Publications and Presentations</h1>
-        <p>6 publications in top-tier finance and economics journals including solo-authored paper in <em>Review of Economic Studies</em>, plus <em>Journal of Finance</em>, <em>Review of Financial Studies</em>, <em>Journal of Financial Economics</em>, <em>Journal of Economic Theory</em></p>
-        <p>300+ citations (Google Scholar), demonstrating research impact and influence in field</p>
+        <p>6 publications in leading finance and economics journals (Review of Economic Studies, Journal of Finance, Review of Financial Studies, Journal of Financial Economics, Journal of Economic Theory)</p>
+        <p>300+ citations (Google Scholar)</p>
         <p>70+ presentations at leading international conferences and universities, including invited talks and paper discussions</p>
     </article>
 </body>
