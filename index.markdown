@@ -3,8 +3,6 @@ layout: default
 exclude: true
 ---
 
-# Bradyn Breon-Drish
-
 I build mathematical models to understand how markets work.
 
 I spent over a decade as a finance professor at Stanford and UC San
