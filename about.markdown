@@ -8,9 +8,16 @@ I'm an economist and quantitative researcher transitioning from academic finance
 
 ## Background
 
-I spent over a decade as a finance professor at Stanford and UC San Diego, where I built mathematical models to understand how information flows through financial markets. My research resulted in six publications in top journals and has been cited over 300 times. I also taught graduate-level finance courses to over 1,000 students, which taught me how to explain complex technical concepts clearly.
+I spent over a decade as a finance professor at Stanford and UC San Diego,
+where I built mathematical models to understand pricing, strategic behavior,
+and informaiton asymmetry in markets. My research resulted
+in six publications in leading journals and has been cited over 300 times. I am
+also an experienced communicator, having
+taught graduate-level finance courses to over 1,000 students, and spoken at 70+ conferences and leading universities.
 
-While I valued the intellectual rigor of academic research, I realized I wanted to work on problems with more immediate, tangible impact. I want to build things that people use, solve problems that matter to organizations, and see my work create value in the real world.
+While I value the intellectual rigor of academic research, I realized I wanted
+to work on problems with more immediate, tangible impact. I want to solve problems that matter to organizations, and see my
+work create value in the real world.
 
 ## Technical Skills
 
