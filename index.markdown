@@ -2,8 +2,6 @@
 layout: default
 exclude: true
 ---
-<script data-goatcounter="https://bradyn.goatcounter.com/count"
-        async src="count.js"></script>
 
 I build mathematical models to understand how markets work.
 
