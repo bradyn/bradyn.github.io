@@ -2,6 +2,7 @@
 permalink: /resume-html/
 ---
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -40,7 +41,7 @@ permalink: /resume-html/
 
 <body>
     <article class="markdown-body">
-        <h1>Bradyn Breon-Drish's Resume</h1>
+        <h1>Bradyn Breon-Drish's CV</h1>
         <ul>
         <li>Email: <a href="mailto:bbreondrish@gmail.com">bbreondrish@gmail.com</a></li>
         <li>Location: San Francisco, CA</li>
@@ -71,7 +72,7 @@ permalink: /resume-html/
         <p>Designed and delivered 2 graduate courses (Corporate Finance, Derivatives &amp; Structured Finance) for quantitative finance program, developing all curriculum and integrating ~10 business case studies per course. Taught to ~1000 students over 9 years</p>
         </li>
         <li>
-        <p>Presented at 30+ international conferences, communicating complex quantitative research to expert audiences and engaging in live Q&amp;A</p>
+        <p>Presented at 30+ international conferences and universities, communicating complex quantitative research to expert audiences and engaging in live Q&amp;A</p>
         </li>
         </ul>
         <h2><strong>Stanford University, Graduate School of Business</strong>, Assistant Professor of Finance</h2>

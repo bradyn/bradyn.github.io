@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-[View HTML Version](/resume-html/) | [Download PDF](/assets/resume.pdf)
+[View HTML Version](/resume-html/) | [Download PDF](/assets/Bradyn_BreonDrish_Resume.pdf)
 
 <object data="/assets/resume.pdf" type="application/pdf" width="100%" height="800px">
   <p>Your browser doesn't support embedded PDFs. <a href="/assets/resume.pdf">Download the PDF</a> instead.</p>
