@@ -2,9 +2,9 @@
 layout: default
 exclude: true
 ---
-<script data-goatcounter="https://your-code.goatcounter.com/count"
+<script data-goatcounter="https://bradyn.goatcounter.com/count"
         async src="count.js"></script>
-        
+
 I build mathematical models to understand how markets work.
 
 I spent over a decade as a finance professor at Stanford and UC San
