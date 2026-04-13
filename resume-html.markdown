@@ -50,7 +50,7 @@ permalink: /resume-html/
         <li>GitHub: <a href="https://github.com/bradyn">bradyn</a></li>
         </ul>
         <h1>Summary</h1>
-        <p>PhD in Finance with 14 years of research experience building mathematical models of pricing, strategic behavior, and information asymmetry in markets. Published 6 peer-reviewed papers (300+ citations) developing novel frameworks for analyzing how market participants acquire, process, and act on private information. Strong technical foundation in probability theory, stochastic processes, game theory, and econometrics, complemented by recent coursework in computer science and software development. Experienced communicator who has presented complex quantitative work to expert audiences at 70+ international venues and taught 1000+ students.</p>
+        <p>PhD in Finance with 14 years of research experience building mathematical models of pricing, strategic behavior, and information asymmetry in markets. Published 6 peer-reviewed papers (300+ citations) developing novel frameworks for analyzing how market participants acquire, process, and act on private information. Strong technical foundation in probability theory, stochastic processes, game theory, and econometrics. Experienced communicator who has presented complex quantitative work to expert audiences at 70+ international venues and taught 1000+ students.</p>
         <h1>Skills</h1>
         <p><strong>Programming Languages:</strong> Python, SQL, C++, Java</p>
         <p><strong>Tools &amp; Software:</strong> Pandas, NumPy, scikit-learn, statsmodels, Git, Jupyter, LaTeX</p>
