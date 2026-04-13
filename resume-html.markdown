@@ -109,27 +109,24 @@ permalink: /resume-html/
         <h2><strong>UC Berkeley</strong>, Finance</h2>
         <p><strong>PhD, MS</strong></p>
         <p>Berkeley, CA</p>
-        <p>2011</p>
         <p>Advanced graduate coursework in economics, finance, and mathematics: stochastic processes, probability theory, real analysis, measure theory, topology, functional analysis, partial differential equations, econometrics, microeconomic theory, game theory, asset pricing, market microstructure.</p>
         <ul>
         <li>
-        <p>Outstanding Graduate Student Instructor Award, 2009 and 2011</p>
+        <p>Outstanding Graduate Student Instructor Award</p>
         </li>
         <li>
-        <p>Dean Witter Foundation Fellowship, 2005-2009</p>
+        <p>Dean Witter Foundation Fellowship</p>
         </li>
         </ul>
         <h2><strong>University of Iowa</strong>, Finance, Statistics (minor)</h2>
         <p><strong>BBA</strong></p>
         <p>Iowa City, IA</p>
-        <p>2005</p>
         <ul>
         <li>Graduated with Honors and Highest Distinction</li>
         </ul>
         <h1>Technical Training</h1>
         <h2><strong>City College of San Francisco</strong>, Computer Science (non-degree coursework)</h2>
         <p>San Francisco, CA</p>
-        <p>2024-2025</p>
         <p>Completed comprehensive coursework in computer science and programming to strengthen technical skills for industry transition.</p>
         <ul>
         <li>
