@@ -3,8 +3,6 @@ layout: default
 exclude: true
 ---
 
-I build mathematical models to understand how markets work.
-
 I spent over a decade as a finance professor at Stanford and UC San
 Diego, developing mathematical models of pricing, strategic behavior,
 and information asymmetry. My research resulted in 6 peer-reviewed
