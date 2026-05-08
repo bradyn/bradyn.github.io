@@ -11,12 +11,12 @@ acquire, process, and act on private information. I'm now
 transitioning to industry roles in areas like marketplace dynamics,
 pricing, and financial modeling.
 
-On the technical side, my recent [forecasting
+<!-- On the technical side, my recent [forecasting
 project](/projects/) compares statistical and machine learning methods
 against professional forecaster benchmarks using real-time
 macroeconomic data. I also recently completed comprehensive computer
 science coursework covering data structures and algorithms, databases,
-and object-oriented programming.
+and object-oriented programming. -->
 
 I've taught graduate-level quantitative courses to over 1,000 students
 and presented at 70+ international conferences and universities. My
