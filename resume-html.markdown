@@ -50,11 +50,11 @@ permalink: /resume-html/
         <li>GitHub: <a href="https://github.com/bradyn">bradyn</a></li>
         </ul>
         <h1>Summary</h1>
-        <p>PhD in Finance with 14 years of research experience building mathematical models of pricing, strategic behavior, and information asymmetry in markets. Published 6 peer-reviewed papers (300+ citations) developing novel frameworks for analyzing how market participants acquire, process, and act on private information. Strong technical foundation in probability theory, stochastic processes, game theory, and econometrics. Experienced communicator who has presented complex quantitative work to expert audiences at 70+ international venues and taught 1000+ students.</p>
+        <p>Financial economist and researcher with 15 years of experience building models of pricing, strategic behavior, and information asymmetry in markets. PhD in Finance from UC Berkeley. Published 6 peer-reviewed papers (300+ citations) in leading economics and finance journals. Strong technical foundation in probability theory, stochastic processes, game theory, econometrics, and asset pricing. Experienced communicator who has presented complex quantitative work to expert audiences at 70+ international venues and taught 1,000+ students.</p>
         <h1>Skills</h1>
-        <p><strong>Programming Languages:</strong> Python, SQL, C++, Java</p>
+        <p><strong>Programming Languages:</strong> Python, SQL</p>
         <p><strong>Tools &amp; Software:</strong> Pandas, NumPy, scikit-learn, statsmodels, Git, Jupyter, LaTeX</p>
-        <p><strong>Mathematical &amp; Statistical Methods:</strong> Probability theory, stochastic processes, statistical inference, time series analysis, econometrics, regression modeling, game theory, equilibrium analysis, optimization</p>
+        <p><strong>Mathematical &amp; Statistical Methods:</strong> Probability theory, stochastic processes, statistical inference, causal inference, time series analysis, econometrics, game theory, optimization</p>
         <p><strong>Domain Expertise:</strong> Pricing and market dynamics, information asymmetry, strategic decision-making, financial markets</p>
         <h1>Experience</h1>
         <h2><strong>UC San Diego, Rady School of Management</strong>, Assistant Professor of Finance</h2>
@@ -63,13 +63,13 @@ permalink: /resume-html/
         <p>9 years 2 months</p>
         <ul>
         <li>
-        <p>Built mathematical models analyzing how prices form in markets where participants hold private information and act strategically, with applications to pricing dynamics, information acquisition, and firm investment decisions (5 publications in peer-reviewed journals including Journal of Finance and Review of Financial Studies)</p>
+        <p>Built models analyzing how prices form in markets where participants hold private information and act strategically, with applications to pricing dynamics, information acquisition, and firm investment decisions (5 publications in peer-reviewed journals including Journal of Finance, Review of Financial Studies, and Journal of Financial Economics)</p>
         </li>
         <li>
-        <p>Research contributions included: modeling how market participants strategically decide when and how much to invest in acquiring private information, analyzing how voluntary disclosure of information reshapes trading behavior and price efficiency, and showing how feedback between market prices and real investment decisions can affect firm behavior</p>
+        <p>Research contributions included: modeling how market participants strategically decide when and how much to invest in acquiring private information, analyzing how voluntary disclosure of information reshapes agent behavior and price efficiency, and showing how feedback between market prices and real investment decisions affects firm behavior</p>
         </li>
         <li>
-        <p>Designed and delivered 2 graduate courses (Corporate Finance, Derivatives &amp; Structured Finance) for quantitative finance program, developing all curriculum and integrating ~10 business case studies per course. Taught to ~1000 students over 9 years</p>
+        <p>Designed and delivered 2 advanced graduate courses (Corporate Finance, Derivatives &amp; Structured Finance) for quantitative finance program, developing all curriculum and integrating ~10 business case studies per course. Taught to ~1000 students over 9 years</p>
         </li>
         <li>
         <p>Presented at 30+ international conferences and universities, communicating complex quantitative research to expert audiences and engaging in live Q&amp;A</p>
@@ -84,32 +84,17 @@ permalink: /resume-html/
         <p>Developed a novel mathematical framework for analyzing equilibrium pricing in markets with asymmetrically informed participants, extending standard linear models to accommodate richer nonlinear settings (solo-authored publication in Review of Economic Studies, ~5% acceptance rate)</p>
         </li>
         <li>
-        <p>Delivered rigorous finance theory course for PhD students, covering advanced asset pricing, information economics, and market microstructure</p>
+        <p>Designed and delivered rigorous finance theory course for PhD students, covering advanced asset pricing, information economics, and market microstructure</p>
         </li>
         <li>
         <p>Delivered case-based core finance course to 400+ MBA students over 5 years, adapting complex quantitative concepts for business-focused audience</p>
-        </li>
-        </ul>
-        <h1>Projects</h1>
-        <h2><strong>Macroeconomic Forecasting: Can Statistical Models Beat the Experts?</strong></h2>
-        <p>Mar 2026</p>
-        <p>Built a Python-based forecasting pipeline comparing AR, Elastic Net, Random Forest, Gradient Boosted Trees, and neural network models against professional forecasters on major macroeconomic series, using real-time vintage data to avoid look-ahead bias. <a href="https://github.com/bradyn/forecast_comparison">GitHub link</a></p>
-        <ul>
-        <li>
-        <p>Implemented using pandas, scikit-learn, and statsmodels, with modular code structure (separate data loading, cleaning, modeling, and evaluation modules)</p>
-        </li>
-        <li>
-        <p>Built custom autoregressive model wrapper to handle vintage-aware predictors and recursive multi-step forecasts, addressing limitations in off-the-shelf implementations</p>
-        </li>
-        <li>
-        <p>Simple AR methods are competitive with complex ML models, and professional forecasters outperform statistical methods primarily during recessions and at short horizons</p>
         </li>
         </ul>
         <h1>Education</h1>
         <h2><strong>UC Berkeley</strong>, Finance</h2>
         <p><strong>PhD, MS</strong></p>
         <p>Berkeley, CA</p>
-        <p>Advanced graduate coursework in economics, finance, and mathematics: stochastic processes, probability theory, real analysis, measure theory, topology, functional analysis, partial differential equations, econometrics, microeconomic theory, game theory, asset pricing, market microstructure.</p>
+        <p>Advanced graduate coursework in economics, finance, and mathematics: stochastic processes, probability theory, real analysis, measure theory, topology, functional analysis, partial differential equations, econometrics, causal inference, microeconomic theory, game theory, asset pricing, market microstructure.</p>
         <ul>
         <li>
         <p>Outstanding Graduate Student Instructor Award</p>
@@ -127,7 +112,7 @@ permalink: /resume-html/
         <h1>Technical Training</h1>
         <h2><strong>City College of San Francisco</strong>, Computer Science (non-degree coursework)</h2>
         <p>San Francisco, CA</p>
-        <p>Completed comprehensive coursework in computer science and programming to strengthen technical skills for industry transition.</p>
+        <p>Completed comprehensive coursework in computer science and software engineering.</p>
         <ul>
         <li>
         <p>Core topics: data structures and algorithms, databases, object-oriented programming, computer architecture, Unix/Linux systems</p>
