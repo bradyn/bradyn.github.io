@@ -23,8 +23,8 @@ problem-solving, and communicating technical work in an industry setting.
 ## Technical Skills
 
 My training gave me a strong foundation in probability theory,
-stochastic processes, game theory, econometrics, causal inference, and statistical
-analysis. I have also completed comprehensive computer science
+stochastic processes, game theory, statistical analysis, econometrics, and 
+causal inference. I have also completed comprehensive computer science
 coursework covering data structures and algorithms, databases,
 object-oriented programming, and computer architecture. I am proficient in
 Python and SQL, with additional experience in C++ and Java.
