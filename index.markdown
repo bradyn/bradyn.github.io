@@ -4,8 +4,8 @@ exclude: true
 ---
 
 I spent over a decade as a finance professor at Stanford and UC San
-Diego, developing mathematical models of pricing, strategic behavior,
-and information asymmetry. My research resulted in 6 peer-reviewed
+Diego, developing models of pricing, strategic behavior,
+and information asymmetry in markets. My research resulted in 6 peer-reviewed
 publications (300+ citations) in leading economics and finance journals,
 analyzing how market participants acquire, process, and act on private
 information. I'm now transitioning to industry roles in areas like
