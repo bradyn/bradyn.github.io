@@ -18,8 +18,7 @@ macroeconomic data. I also recently completed comprehensive computer
 science coursework covering data structures and algorithms, databases,
 and object-oriented programming. -->
 
-I have experience communicating technical material to audiences with very
-different backgrounds. I've taught graduate-level quantitative courses to over
+I have experience communicating technical material to broad audiences with diverse backgrounds. I've taught graduate-level quantitative courses to over
 1,000 students and presented at 70+ international conferences and universities.
 My teaching ranged from case-based courses for MBA students, to applied
 quantitative finance courses for MS students, to advanced
