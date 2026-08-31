@@ -9,7 +9,7 @@ and information asymmetry in markets. My research resulted in 6 peer-reviewed
 publications (300+ citations) in leading economics and finance journals,
 analyzing how market participants acquire, process, and act on private
 information. I'm now transitioning to industry roles in areas like
-marketplace dynamics, pricing, and financial modeling.
+marketplace dynamics, pricing, risk, and financial modeling.
 
 <!-- On the technical side, my recent [forecasting
 project](/projects/) compares statistical and machine learning methods
